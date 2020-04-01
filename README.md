@@ -23,7 +23,7 @@ Output Example: False_
 Input Example: 2004
 Output Example: true_
 
-*_The program should return 'false' for years divisable by 100, since those are not leap years.
+* _The program should return 'false' for years divisable by 100, since those are not leap years.
 Input Example: 1900
 Output Example: false_
 
